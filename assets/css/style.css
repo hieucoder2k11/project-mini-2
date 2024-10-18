@@ -50,7 +50,7 @@ header{
 /* section-one  */
 
 .section-one{
-    background-image: url(/project-mini-2/images/banner-bg.png);
+    background-image: url(images/banner-bg.png);
     height: 100vh;
     width: auto;
     object-fit: cover;
@@ -163,7 +163,7 @@ header{
 
 /* section-four  */
 .section-four{
-    background-image: url(/project-mini-2/images/work-process-bg.png);
+    background-image: url(images/work-process-bg.png);
     height: 90vh;
     width: auto;
     object-fit: cover;
